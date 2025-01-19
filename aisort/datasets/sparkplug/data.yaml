@@ -1,0 +1,7 @@
+train: sparkplug/train/images
+val: sparkplug/valid/images
+
+nc: 2
+names:
+  0: damaged_spark-plug
+  1: spark-plug
