@@ -50,7 +50,7 @@ body {
 }
 
 .navbar .links a:hover {
-  color: #47b2e4;
+  color:  #004e66;
 }
 
 .navbar .buttons a {
@@ -66,7 +66,7 @@ body {
 }
 
 .navbar .buttons .signin:hover {
-  color: #47b2e4;
+  color:  #004e66;
 }
 
 .navbar .buttons .signup {
@@ -78,7 +78,7 @@ body {
 }
 
 .navbar .buttons .signup:hover {
-  background-color: #47b2e4;
+  background-color:  #004e66;
   color: #fff;
 }
 
@@ -131,7 +131,7 @@ body {
 }
 
 .buttons .join {
-  background-color: #47b2e4;
+  background-color:  #004e66;
 }
 
 .hero-section .buttons .learn {
@@ -140,7 +140,7 @@ body {
 }
 
 .hero-section .buttons a:hover {
-  background-color: #47b2e4;
+  background-color:  #004e66;
 }
 
 /* Hamburger menu styles */
@@ -284,6 +284,23 @@ span {
 }
 .hire:hover {
   background: white;
+}
+.solution{
+  height: 100vh;
+  width: 100%;
+  padding: 90px 0;
+  display: flex;
+  
+  align-items: center;
+
+}
+#vimeo_tool {
+  display: none !important;
+}
+
+#vimeo_tool {
+  display: none !important;
+  visibility: hidden !important;
 }
 
 @media (max-width:1100px) {
